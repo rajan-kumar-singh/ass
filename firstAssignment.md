@@ -1,5 +1,9 @@
 what is virtual DOM?
 * React virtual dom to efficienly updata the ui without re-render the entire page .
+   What is DNS and IP Address?
+
+The Domain Name System (DNS) turns domain names into IP addresses, which browsers use to load internet pages.
+An Internet Protocol (IP) address is a unique numerical identifier for every device or network that connects to the internet.
 
 What is SPA?
 * A single page Application is a web pplication that have only one single web page
